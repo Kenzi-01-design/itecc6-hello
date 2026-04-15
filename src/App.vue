@@ -3,5 +3,5 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
- "Greeting. Ako si Jan Erick B. Dipagan. Welcome ka sa aking buhay"
+ "Greeting. Ako si Jan Erick B. Dipagan. Welcome ka sa aking buhay. Andito ako naglulugmok"
 </template>
